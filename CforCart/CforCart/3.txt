@@ -1,0 +1,4 @@
+Restaurant: RanveerSingh
+321 idly 15
+333 sambhar 20
+345 parantha 35

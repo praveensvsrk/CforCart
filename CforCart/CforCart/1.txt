@@ -1,0 +1,5 @@
+Restaurant: Agarwal
+2 chapati 10
+3 curry 20
+4 mazaa 25
+5 meals 35
