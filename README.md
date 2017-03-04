@@ -1,7 +1,7 @@
 **BY: PRAVEEN SVSRK, MVGR**
 
 
-**User login:**  
+**User login:**   
 1. Sessions are maintained by creating a session file to store user's name. On logout, this file is emptied.  
 2. If Session is still existing, user will not be prompted for login, he will be automatically logged in.  
 3. Login fails on invalid credentials  
